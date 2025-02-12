@@ -10,4 +10,4 @@ Voici les diagrammes qui represente le fonctionnement de l'algorithme de placeme
 
 ![Alt text](DProjet.png)
 ![Alt text](DAlgoGene.png)
-![Alt text](DPlacement.png)
+![Alt text](DPlacement.jpg)
