@@ -1,0 +1,272 @@
+{
+    "colis": [
+        {
+            "numCommande": 26542,
+            "posX": 0,
+            "posY": 0,
+            "sizeX": 97,
+            "sizeY": 72
+        },
+        {
+            "numCommande": 26543,
+            "posX": 0,
+            "posY": 72,
+            "sizeX": 98,
+            "sizeY": 62
+        },
+        {
+            "numCommande": 26543,
+            "posX": 0,
+            "posY": 134,
+            "sizeX": 98,
+            "sizeY": 62
+        },
+        {
+            "numCommande": 26544,
+            "posX": 0,
+            "posY": 196,
+            "sizeX": 92,
+            "sizeY": 63
+        },
+        {
+            "numCommande": 26544,
+            "posX": 92,
+            "posY": 196,
+            "sizeX": 92,
+            "sizeY": 63
+        },
+        {
+            "numCommande": 26544,
+            "posX": 0,
+            "posY": 259,
+            "sizeX": 92,
+            "sizeY": 63
+        },
+        {
+            "numCommande": 26544,
+            "posX": 92,
+            "posY": 259,
+            "sizeX": 92,
+            "sizeY": 63
+        },
+        {
+            "numCommande": 26544,
+            "posX": 0,
+            "posY": 322,
+            "sizeX": 92,
+            "sizeY": 63
+        },
+        {
+            "numCommande": 26544,
+            "posX": 92,
+            "posY": 322,
+            "sizeX": 92,
+            "sizeY": 63
+        },
+        {
+            "numCommande": 26544,
+            "posX": 0,
+            "posY": 385,
+            "sizeX": 92,
+            "sizeY": 63
+        },
+        {
+            "numCommande": 26544,
+            "posX": 92,
+            "posY": 385,
+            "sizeX": 92,
+            "sizeY": 63
+        },
+        {
+            "numCommande": 26544,
+            "posX": 0,
+            "posY": 448,
+            "sizeX": 92,
+            "sizeY": 63
+        },
+        {
+            "numCommande": 26544,
+            "posX": 92,
+            "posY": 448,
+            "sizeX": 92,
+            "sizeY": 63
+        },
+        {
+            "numCommande": 26545,
+            "posX": 0,
+            "posY": 511,
+            "sizeX": 97,
+            "sizeY": 69
+        },
+        {
+            "numCommande": 26545,
+            "posX": 97,
+            "posY": 511,
+            "sizeX": 97,
+            "sizeY": 69
+        },
+        {
+            "numCommande": 26545,
+            "posX": 0,
+            "posY": 580,
+            "sizeX": 97,
+            "sizeY": 69
+        },
+        {
+            "numCommande": 26545,
+            "posX": 97,
+            "posY": 580,
+            "sizeX": 97,
+            "sizeY": 69
+        },
+        {
+            "numCommande": 26546,
+            "posX": 0,
+            "posY": 649,
+            "sizeX": 89,
+            "sizeY": 67
+        },
+        {
+            "numCommande": 26546,
+            "posX": 89,
+            "posY": 649,
+            "sizeX": 89,
+            "sizeY": 67
+        },
+        {
+            "numCommande": 26546,
+            "posX": 0,
+            "posY": 716,
+            "sizeX": 89,
+            "sizeY": 67
+        },
+        {
+            "numCommande": 26546,
+            "posX": 89,
+            "posY": 716,
+            "sizeX": 89,
+            "sizeY": 67
+        },
+        {
+            "numCommande": 26546,
+            "posX": 0,
+            "posY": 783,
+            "sizeX": 89,
+            "sizeY": 67
+        },
+        {
+            "numCommande": 26546,
+            "posX": 89,
+            "posY": 783,
+            "sizeX": 89,
+            "sizeY": 67
+        },
+        {
+            "numCommande": 26546,
+            "posX": 0,
+            "posY": 850,
+            "sizeX": 89,
+            "sizeY": 67
+        },
+        {
+            "numCommande": 26546,
+            "posX": 89,
+            "posY": 850,
+            "sizeX": 89,
+            "sizeY": 67
+        },
+        {
+            "numCommande": 26546,
+            "posX": 0,
+            "posY": 917,
+            "sizeX": 89,
+            "sizeY": 67
+        },
+        {
+            "numCommande": 26547,
+            "posX": 89,
+            "posY": 917,
+            "sizeX": 87,
+            "sizeY": 69
+        },
+        {
+            "numCommande": 26547,
+            "posX": 0,
+            "posY": 984,
+            "sizeX": 87,
+            "sizeY": 69
+        },
+        {
+            "numCommande": 26547,
+            "posX": 89,
+            "posY": 986,
+            "sizeX": 87,
+            "sizeY": 69
+        },
+        {
+            "numCommande": 26547,
+            "posX": 0,
+            "posY": 1053,
+            "sizeX": 87,
+            "sizeY": 69
+        },
+        {
+            "numCommande": 26547,
+            "posX": 89,
+            "posY": 1055,
+            "sizeX": 87,
+            "sizeY": 69
+        },
+        {
+            "numCommande": 26547,
+            "posX": 0,
+            "posY": 1122,
+            "sizeX": 87,
+            "sizeY": 69
+        },
+        {
+            "numCommande": 26548,
+            "posX": 89,
+            "posY": 1124,
+            "sizeX": 99,
+            "sizeY": 70
+        },
+        {
+            "numCommande": 26548,
+            "posX": 89,
+            "posY": 1194,
+            "sizeX": 99,
+            "sizeY": 70
+        },
+        {
+            "numCommande": 26549,
+            "posX": 0,
+            "posY": 1191,
+            "sizeX": 74,
+            "sizeY": 70
+        },
+        {
+            "numCommande": 26549,
+            "posX": 0,
+            "posY": 1261,
+            "sizeX": 74,
+            "sizeY": 70
+        },
+        {
+            "numCommande": 26549,
+            "posX": 89,
+            "posY": 1264,
+            "sizeX": 74,
+            "sizeY": 70
+        },
+        {
+            "numCommande": 26549,
+            "posX": 163,
+            "posY": 1264,
+            "sizeX": 74,
+            "sizeY": 70
+        }
+    ],
+    "largeurCamion": 240,
+    "longueurCamion": 1340
+}
