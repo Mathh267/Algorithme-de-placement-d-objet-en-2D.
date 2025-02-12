@@ -2,3 +2,4 @@
 Le projet à été crée sur Visual studio et avec un visualisateur en Python. 
  
 ## Diagramme de classe 
+![Alt text](DiagrammeDeClasse.png)
